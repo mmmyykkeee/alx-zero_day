@@ -1,1 +1,2 @@
-#!/bin/bash /n This is the root of my repository
+#!/bin/bash 
+ This is the root of my repository

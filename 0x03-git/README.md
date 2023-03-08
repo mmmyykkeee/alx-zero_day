@@ -1,2 +1,2 @@
-This is my new task
- 
+#!/bin/bash
+This is my new task 
